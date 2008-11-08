@@ -11,6 +11,13 @@
 	  <sha>9492d0bfd560a988dff9bed33496871e16c91c4c</sha>
 	</plugin>
 
+	<plugin name="InfoBrowserSlimForums" version="1.0" minTarget="7.3" maxTarget="7.3">
+	  <title lang="EN">Slim Forums</title>
+	  <desc  lang="EN">InfoBrowser Addon for reading the latest posts on Slim Devices Forums</desc>
+	  <url>http://triodeplugins.googlecode.com/files/InfoBrowserSlimForums-1.0.zip</url>
+	  <sha>1073714c8b16d62b59a2b4b5b8944ca285cc7b07</sha>
+	</plugin>
+
   </plugins>
 
 </extensions>
