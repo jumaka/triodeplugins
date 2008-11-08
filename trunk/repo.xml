@@ -4,7 +4,7 @@
 
   <plugins>
 
-	<plugin name="BBCiPlayer" version="0.3" target="mac|unix" minTarget="7.3" maxTarget="7.3">
+	<plugin name="BBCiPlayer" version="0.3" minTarget="7.3" maxTarget="7.3">
 	  <title lang="EN">BBCiPlayer</title>
 	  <desc  lang="EN">Listen to BBC iPlayer Listen Again streams from within the UK</desc>
 	  <url>http://triodeplugins.googlecode.com/files/BBCiPlayer-v0.3_7_3.zip</url>
