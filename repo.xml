@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<extensions>
+
+  <plugins>
+
+	<plugin name="BBCiPlayer" version="0.3" target="mac|unix" minTarget="7.3" maxTarget="7.3">
+	  <title lang="EN">BBCiPlayer</title>
+	  <desc  lang="EN">Play BBC iPlayer radio streams using the UK only mp3 streams</desc>
+	  <url>http://triodeplugins.googlecode.com/files/BBCiPlayer-v0.3_7_3.zip</url>
+	  <sha>9492d0bfd560a988dff9bed33496871e16c91c4c</sha>
+	</plugin>
+
+  </plugins>
+
+</extensions>
