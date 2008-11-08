@@ -18,6 +18,13 @@
 	  <sha>1073714c8b16d62b59a2b4b5b8944ca285cc7b07</sha>
 	</plugin>
 
+	<plugin name="InfoBrowserBBC" version="1.0" minTarget="7.3" maxTarget="7.3">
+	  <title lang="EN">BBC News and Sport</title>
+	  <desc  lang="EN">InfoBrowser Addon for reading BBC News and Sports pages</desc>
+	  <url>http://triodeplugins.googlecode.com/files/InfoBrowserBBC-1.0.zip</url>
+	  <sha>089aed940d64101a1577fd3fc9ea6870364dede2</sha>
+	</plugin>
+
   </plugins>
 
 </extensions>
