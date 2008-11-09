@@ -32,6 +32,13 @@
 	  <sha>719ab6bcb33d90b724b873348df925cc2f344b6b</sha>
 	</plugin>
 
+	<plugin name="SigGen" version="1.0" minTarget="7.3" maxTarget="7.3">
+	  <title lang="EN">Signal Generator</title>
+	  <desc  lang="EN">Signal Generator for SB2/3/Transporter.  (Controlled from number buttons on IR remote control of these players.)</desc>
+	  <url>http://triodeplugins.googlecode.com/files/SigGen-1.0.zip</url>
+	  <sha>918ef3aff26579ca6832c1347bbfb55570512218</sha>
+	</plugin>
+
   </plugins>
 
 </extensions>
