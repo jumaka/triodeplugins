@@ -7,6 +7,8 @@
 	<plugin name="BBCiPlayer" version="0.3" minTarget="7.3" maxTarget="7.3">
 	  <title lang="EN">BBCiPlayer</title>
 	  <desc  lang="EN">Listen to BBC iPlayer Listen Again streams from within the UK</desc>
+	  <creator>Triode</creator>
+	  <email>triode1@btinternet.com</email>
 	  <url>http://triodeplugins.googlecode.com/files/BBCiPlayer-v0.3_7_3.zip</url>
 	  <sha>9492d0bfd560a988dff9bed33496871e16c91c4c</sha>
 	</plugin>
@@ -14,6 +16,8 @@
 	<plugin name="InfoBrowserSlimForums" version="1.0" minTarget="7.3" maxTarget="7.3">
 	  <title lang="EN">Slim Forums</title>
 	  <desc  lang="EN">InfoBrowser Addon for reading the latest posts on Slim Devices Forums</desc>
+	  <creator>Triode</creator>
+	  <email>triode1@btinternet.com</email>
 	  <url>http://triodeplugins.googlecode.com/files/InfoBrowserSlimForums-1.0.zip</url>
 	  <sha>1073714c8b16d62b59a2b4b5b8944ca285cc7b07</sha>
 	</plugin>
@@ -21,6 +25,8 @@
 	<plugin name="InfoBrowserBBC" version="1.0" minTarget="7.3" maxTarget="7.3">
 	  <title lang="EN">BBC News and Sport</title>
 	  <desc  lang="EN">InfoBrowser Addon for reading BBC News and Sports pages</desc>
+	  <creator>Triode</creator>
+	  <email>triode1@btinternet.com</email>
 	  <url>http://triodeplugins.googlecode.com/files/InfoBrowserBBC-1.0.zip</url>
 	  <sha>089aed940d64101a1577fd3fc9ea6870364dede2</sha>
 	</plugin>
@@ -28,6 +34,8 @@
 	<plugin name="InfoBrowserTvGuideCoUk" version="1.0" minTarget="7.3" maxTarget="7.3">
 	  <title lang="EN">TvGuide.co.uk</title>
 	  <desc  lang="EN">InfoBrowser Addon for reading UK TV listings from TvGuide.co.uk</desc>
+	  <creator>Triode</creator>
+	  <email>triode1@btinternet.com</email>
 	  <url>http://triodeplugins.googlecode.com/files/InfoBrowserTvGuideCoUk-1.0.zip</url>
 	  <sha>719ab6bcb33d90b724b873348df925cc2f344b6b</sha>
 	</plugin>
@@ -35,6 +43,8 @@
 	<plugin name="SigGen" version="1.0" minTarget="7.3" maxTarget="7.3">
 	  <title lang="EN">Signal Generator</title>
 	  <desc  lang="EN">Signal Generator for SB2/3/Transporter.  (Controlled from number buttons on IR remote control of these players.)</desc>
+	  <creator>Triode</creator>
+	  <email>triode1@btinternet.com</email>
 	  <url>http://triodeplugins.googlecode.com/files/SigGen-1.0.zip</url>
 	  <sha>918ef3aff26579ca6832c1347bbfb55570512218</sha>
 	</plugin>
