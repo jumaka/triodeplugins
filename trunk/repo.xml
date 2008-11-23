@@ -2,6 +2,16 @@
 
 <extensions>
 
+  <applets>
+
+	<applet name="RetroBrowser" version="1.0" minTarget="7.3" maxTarget="7.3">
+	  <title lang="EN">Retro Browser</title>
+	  <desc  lang="EN">Emulate the Squeezebox graphics user interface on your Squeezebox Controller/SqueezePlay</desc>
+	  <url>http://10.0.0.2/adrian/RetroBrowser-1.0.zip</url>
+	</applet>
+
+  </applets>
+
   <plugins>
 
 	<plugin name="BBCiPlayer" version="0.3" minTarget="7.3" maxTarget="7.3">
