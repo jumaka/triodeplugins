@@ -54,13 +54,13 @@
 	  <sha>719ab6bcb33d90b724b873348df925cc2f344b6b</sha>
 	</plugin>
 
-	<plugin name="SigGen" version="1.1" minTarget="7.3" maxTarget="7.*">
+	<plugin name="SigGen" version="1.2" minTarget="7.3" maxTarget="7.*">
 	  <title lang="EN">Signal Generator</title>
 	  <desc  lang="EN">Signal Generator plugin.  Now supports Squeezeplay as well as SB2/3/Transporter.</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://triodeplugins.googlecode.com/files/SigGen-1.1.zip</url>
-	  <sha>601af61030ba111e1d40cb740474729f92ce43d2</sha>
+	  <url>http://triodeplugins.googlecode.com/files/SigGen-1.2.zip</url>
+	  <sha>e6867a6ff30fc021e5fd2beea856913a49bae320</sha>
 	</plugin>
 
 	<plugin name="SwitchPlayer" version="0.1" minTarget="7.3" maxTarget="7.*">
