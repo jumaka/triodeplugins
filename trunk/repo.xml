@@ -18,13 +18,13 @@
 
   <plugins>
 
-	<plugin name="BBCiPlayer" version="0.6" minTarget="7.3" maxTarget="7.*">
+	<plugin name="BBCiPlayer" version="0.7" minTarget="7.3" maxTarget="7.*">
 	  <title lang="EN">BBCiPlayer</title>
 	  <desc  lang="EN">Listen to BBC iPlayer Listen Again streams from within the UK</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://triodeplugins.googlecode.com/files/BBCiPlayer-v0.6.zip</url>
-	  <sha>9b1059b630cc69bd8aaaea0684bcb28feb3a3ff6</sha>
+	  <url>http://triodeplugins.googlecode.com/files/BBCiPlayer-v0.7.zip</url>
+	  <sha>4d5f30606549b3c2e8cc976d59bf44d33c00e9b6</sha>
 	</plugin>
 
 	<plugin name="InfoBrowserSlimForums" version="1.0" minTarget="7.3" maxTarget="7.*">
