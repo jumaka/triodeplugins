@@ -8,7 +8,7 @@
 
   <applets>
 
-	<applet name="RetroBrowser" version="1.0" minTarget="7.3" maxTarget="7.*">
+	<applet name="RetroBrowser" version="1.0" minTarget="7.3" maxTarget="7.3.*">
 	  <title lang="EN">Retro Browser</title>
 	  <desc  lang="EN">Emulate the Squeezebox graphics user interface on your Squeezebox Controller/SqueezePlay</desc>
 	  <url>http://triodeplugins.googlecode.com/files/RetroBrowser-1.0.zip</url>
