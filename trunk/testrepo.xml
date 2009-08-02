@@ -8,7 +8,7 @@
 
   <plugins>
 
-	<plugin name="BBCiPlayer" version="0.8beta" minTarget="7.3" maxTarget="7.*">
+	<plugin name="BBCiPlayer" version="0.9beta" minTarget="7.3" maxTarget="7.*">
 	  <title lang="EN">BBCiPlayer</title>
 	  <desc  lang="EN">Listen to BBC iPlayer Listen Again streams from within the UK.  (FlashAAC Beta version)</desc>
 	  <creator>Triode</creator>
