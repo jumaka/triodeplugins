@@ -8,13 +8,13 @@
 
   <plugins>
 
-	<plugin name="BBCiPlayer" version="0.9beta2" minTarget="7.3" maxTarget="7.*">
+	<plugin name="BBCiPlayer" version="0.9beta3" minTarget="7.3" maxTarget="7.*">
 	  <title lang="EN">BBCiPlayer</title>
 	  <desc  lang="EN">Listen to BBC iPlayer Listen Again streams from within the UK.  (FlashAAC Beta version)</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://triodeplugins.googlecode.com/files/BBCiPlayer-v0.9beta2.zip</url>
-	  <sha>b0fb63d495d3da97c927f1450df39029535ee60b</sha>
+	  <url>http://triodeplugins.googlecode.com/files/BBCiPlayer-v0.9beta3.zip</url>
+	  <sha>a763eec676bb1988e6a256dfe648bff88790fa93</sha>
 	</plugin>
 
   </plugins>
