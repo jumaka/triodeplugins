@@ -24,7 +24,7 @@
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
 	  <url>http://triodeplugins.googlecode.com/files/BBCiPlayer-v0.9b.zip</url>
-	  <sha>ed5f374b61c756a92d29e45ad5514b2e7d001c5d</sha>
+	  <sha>a2f39a8eb78aa88d6d5efd043d02032e26fea489</sha>
 	</plugin>
 
 	<plugin name="InfoBrowserSlimForums" version="1.0" minTarget="7.3" maxTarget="7.*">
