@@ -63,13 +63,13 @@
 	  <sha>e6867a6ff30fc021e5fd2beea856913a49bae320</sha>
 	</plugin>
 
-	<plugin name="SwitchPlayer" version="0.1" minTarget="7.3" maxTarget="7.*">
+	<plugin name="SwitchPlayer" version="0.2" minTarget="7.3" maxTarget="7.*">
 	  <title lang="EN">Switch Player</title>
 	  <desc  lang="EN">Switch Player allows you to transfer the currently playing playlist from one player to another as you move between rooms.  It ensures the new player is powered on, transfers the current playlist and playing song or remote stream to the new player and then turns off the old player.</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://triodeplugins.googlecode.com/files/SwitchPlayer-0.1.zip</url>
-	  <sha>981565e808ba1da3d1bb380325f23dcd9c98825d</sha>
+	  <url>http://triodeplugins.googlecode.com/files/SwitchPlayer-v0.2.zip</url>
+	  <sha>3b060f690d9d14322fa25af8b33b646e04d448aa</sha>
 	</plugin>
 
   </plugins>
