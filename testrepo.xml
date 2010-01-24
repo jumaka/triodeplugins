@@ -7,7 +7,18 @@
   </details>	
 
   <plugins>
-
   </plugins>
+
+  <applets>
+
+	<applet name="BBCiPlayer" version="0.01" minTarget="7.5.0.8396" maxTarget="7.5.*">
+	  <title lang="EN">BBCiPlayer (Alpha)</title>
+	  <desc  lang="EN">Test applet for BBC live and listen again supported from an applet with mysqueezebox.com.  Note this is an alpha test version.</desc>
+	  <url>http://triodeplugins.googlecode.com/files/BBCiPlayerApplet-0.01.zip</url>
+	  <sha>dcc88a3c9a5e528374c691edd77ca7a8f6adf085</sha>
+	</applet>
+
+  </applets>
+
 
 </extensions>
