@@ -13,9 +13,9 @@
 
 	<applet name="BBCRadio" version="0.1" minTarget="7.5.0.8430" maxTarget="7.5.*">
 	  <title lang="EN">BBC Radio (Alpha)</title>
-	  <desc  lang="EN">Test applet for BBC live and listen again supported from an applet with mysqueezebox.com.  Note this is an alpha test version.</desc>
+	  <desc  lang="EN">Listen to BBC Radio live and listen again streams on your Squeezebox.  Listen to live radio and the last 7 days of BBC national, regional and local radio.  (Listeners in the UK will receive higher quality streams than listeners outside the UK.)</desc>
 	  <url>http://triodeapplets.googlecode.com/files/BBCRadio-v0.1.zip</url>
-	  <sha>2b2cf4e95227aa1a8ae0fcf70afd4eb7a6ea3093</sha>
+	  <sha>9952af66cde0756eab561c1f5afb7a6001d0a613</sha>
 	</applet>
 
   </applets>
