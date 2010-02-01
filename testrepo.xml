@@ -11,7 +11,7 @@
 
   <applets>
 
-	<applet name="BBCRadio" version="0.1" minTarget="7.5.0" maxTarget="7.5.*">
+	<applet name="BBCRadio" version="0.1" minTarget="7.5.0.8430" maxTarget="7.5.*">
 	  <title lang="EN">BBC Radio (Alpha)</title>
 	  <desc  lang="EN">Test applet for BBC live and listen again supported from an applet with mysqueezebox.com.  Note this is an alpha test version.</desc>
 	  <url>http://triodeapplets.googlecode.com/files/BBCRadio-v0.1.zip</url>
