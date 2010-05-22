@@ -14,13 +14,13 @@
 	  <url>http://triodeplugins.googlecode.com/files/RetroBrowser-1.0.zip</url>
 	</applet>
 
-	<applet name="BBCRadio" version="0.8" minTarget="7.5.0.8430" maxTarget="7.*" target="baby|fab4|squeezeplay">
+	<applet name="BBCRadio" version="1.0" minTarget="7.5.0.8430" maxTarget="7.*" target="baby|fab4|squeezeplay">
 	  <title lang="EN">BBC Radio</title>
 	  <desc  lang="EN">Listen to BBC Radio live and listen again streams on your Squeezebox.  Live radio and the last 7 days of BBC national, regional and local radio from the UK.  (Plays BBC UK or International streams depending on your location.)</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://triodeapplets.googlecode.com/files/BBCRadio-v0.8.zip</url>
-	  <sha>8f4af55aa0c5fdabaee475c3a538e4d38729ba13</sha>
+	  <url>http://triodeapplets.googlecode.com/files/BBCRadio-v1.0.zip</url>
+	  <sha>6dce8219f1f9d65b0d3eb36d2e2836ae0b8ca8f0</sha>
 	</applet>
 
   </applets>
