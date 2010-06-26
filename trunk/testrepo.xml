@@ -8,22 +8,22 @@
 
   <plugins>
 
-	<plugin name="Spotify" version="0.2beta2" minTarget="7.5" maxTarget="7.*" target="windows">
+	<plugin name="Spotify" version="0.2beta3" minTarget="7.5" maxTarget="7.*" target="windows">
 	  <title lang="EN">Beta: Spotify Premium Plugin</title>
 	  <desc  lang="EN">Beta Plugin: Listen to Spotify on your Squeezebox.  Requires a Spotify Premium account.</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://xdevtriodeplugins.2.xpdev-hosted.com/Spotify-windows-v0.2beta2.zip</url>
-	  <sha>655558f96fc31a801f4be16749eed7c21224c7b9</sha>
+	  <url>http://xdevtriodeplugins.2.xpdev-hosted.com/Spotify-windows-v0.2beta3.zip</url>
+	  <sha>342c49e2ec7a7d7233180700190cd5cbe6a18e4d</sha>
 	</plugin>
 
-	<plugin name="Spotify" version="0.2beta2" minTarget="7.5" maxTarget="7.*" target="unix">
+	<plugin name="Spotify" version="0.2beta3" minTarget="7.5" maxTarget="7.*" target="unix">
 	  <title lang="EN">Beta: Spotify Premium Plugin (Linux i386)</title>
 	  <desc  lang="EN">Beta Plugin: Listen to Spotify on your Squeezebox.  Requires a Spotify Premium account.</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://xdevtriodeplugins.2.xpdev-hosted.com/Spotify-i386-linux-v0.2beta2.zip</url>
-	  <sha>18fdc60d13934ab70ae23e573122a49864d3f5c7</sha>
+	  <url>http://xdevtriodeplugins.2.xpdev-hosted.com/Spotify-i386-linux-v0.2beta3.zip</url>
+	  <sha>55295730173c7244263652ede6e3914fa58d3ab7</sha>
 	</plugin>
 
   </plugins>
