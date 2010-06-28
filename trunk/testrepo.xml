@@ -26,6 +26,15 @@
 	  <sha>386613df7fda40fe15755e69b06568309359fc94</sha>
 	</plugin>
 
+	<plugin name="Spotify" version="0.2beta3" minTarget="7.5" maxTarget="7.*" target="mac">
+	  <title lang="EN">Beta: Spotify Premium Plugin</title>
+	  <desc  lang="EN">Beta Plugin: Listen to Spotify on your Squeezebox.  Requires a Spotify Premium account.</desc>
+	  <creator>Triode</creator>
+	  <email>triode1@btinternet.com</email>
+	  <url>http://xdevtriodeplugins.2.xpdev-hosted.com/Spotify-mac-v0.2beta3.zip</url>
+	  <sha>a7850d2a813ccd9f8b08926fec1363d1899b3fb3</sha>
+	</plugin>
+
   </plugins>
 
   <applets>
