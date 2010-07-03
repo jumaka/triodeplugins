@@ -8,7 +8,7 @@
 
   <plugins>
 
-	<plugin name="Spotify" version="0.2beta4" minTarget="7.5" maxTarget="7.*" target="windows">
+	<!--plugin name="Spotify" version="0.2beta4" minTarget="7.5" maxTarget="7.*" target="windows">
 	  <title lang="EN">Beta: Spotify Premium Plugin</title>
 	  <desc  lang="EN">Beta Plugin: Listen to Spotify on your Squeezebox.  Requires a Spotify Premium account.</desc>
 	  <creator>Triode</creator>
@@ -35,7 +35,7 @@
 	  <sha>4b3f40e73606bea18fe6132234fceffd5e8217d0</sha>
 	</plugin>
 
-  </plugins>
+  </plugins -->
 
   <applets>
 
