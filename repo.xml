@@ -54,13 +54,13 @@
 	  <sha>1073714c8b16d62b59a2b4b5b8944ca285cc7b07</sha>
 	</plugin>
 
-	<plugin name="InfoBrowserBBC" version="1.1" minTarget="7.3" maxTarget="7.*">
+	<plugin name="InfoBrowserBBC" version="1.2" minTarget="7.3" maxTarget="7.*">
 	  <title lang="EN">BBC News and Sport</title>
 	  <desc  lang="EN">InfoBrowser Addon for reading BBC News and Sports pages</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://triodeplugins.googlecode.com/files/InfoBrowserBBC-1.1.zip</url>
-	  <sha>f2291b2ef64342b36926b2ad674fc3c02e93a1c6</sha>
+	  <url>http://triodeplugins.googlecode.com/files/InfoBrowserBBC-0.2.zip</url>
+	  <sha>bf9c404fd34864864fd63bcb0c22a8964ece0dc6</sha>
 	</plugin>
 
 	<plugin name="InfoBrowserTvGuideCoUk" version="1.0" minTarget="7.3" maxTarget="7.*">
