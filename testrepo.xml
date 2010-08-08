@@ -8,31 +8,31 @@
 
   <plugins>
 
-	<plugin name="Spotify" version="1.0rc2" minTarget="7.5" maxTarget="7.*" target="windows">
+	<plugin name="Spotify" version="1.0rc3" minTarget="7.5" maxTarget="7.*" target="windows">
 	  <title lang="EN">Beta: Spotify Premium Plugin</title>
 	  <desc  lang="EN">Beta Plugin: Listen to Spotify on your Squeezebox.  Requires a Spotify Premium account.</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://xdevtriodeplugins.2.xpdev-hosted.com/Spotify-windows-v1.0rc2.zip</url>
-	  <sha>d8ccc591d4f80f2bcad07823e09feb72bd0bf9ab</sha>
+	  <url>http://xdevtriodeplugins.2.xpdev-hosted.com/Spotify-windows-v1.0rc3.zip</url>
+	  <sha>2cfda189a5b5bfbd6dedf30cf897467832b2e105</sha>
 	</plugin>
 
-	<plugin name="Spotify" version="1.0rc2" minTarget="7.5" maxTarget="7.*" target="unix">
+	<plugin name="Spotify" version="1.0rc3" minTarget="7.5" maxTarget="7.*" target="unix">
 	  <title lang="EN">Beta: Spotify Premium Plugin (Linux i386)</title>
 	  <desc  lang="EN">Beta Plugin: Listen to Spotify on your Squeezebox.  Requires a Spotify Premium account.</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://xdevtriodeplugins.2.xpdev-hosted.com/Spotify-i386-linux-v1.0rc2.zip</url>
-	  <sha>d8678ec04e447382a52bdde7e08733a1e9178cd5</sha>
+	  <url>http://xdevtriodeplugins.2.xpdev-hosted.com/Spotify-i386-linux-v1.0rc3.zip</url>
+	  <sha>3e8c48b6dc54021e75219853ba49d4fa9921f5f9</sha>
 	</plugin>
 
-	<plugin name="Spotify" version="1.0rc2" minTarget="7.5" maxTarget="7.*" target="mac">
+	<plugin name="Spotify" version="1.0rc3" minTarget="7.5" maxTarget="7.*" target="mac">
 	  <title lang="EN">Beta: Spotify Premium Plugin</title>
 	  <desc  lang="EN">Beta Plugin: Listen to Spotify on your Squeezebox.  Requires a Spotify Premium account.</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://xdevtriodeplugins.2.xpdev-hosted.com/Spotify-mac-v1.0rc2.zip</url>
-	  <sha>deb632caa9dd248da2a80ab155c63e2770a0ccac</sha>
+	  <url>http://xdevtriodeplugins.2.xpdev-hosted.com/Spotify-mac-v1.0rc3.zip</url>
+	  <sha>396ab5e180c1e51b3ab8f2b017f2ef8cbe32b582</sha>
 	</plugin>
 
   </plugins>
