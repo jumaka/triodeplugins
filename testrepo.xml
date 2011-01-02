@@ -14,7 +14,7 @@
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
 	  <url>http://xdevtriodeplugins.2.xpdev-hosted.com/Spotify-windows-v1.1.1.zip</url>
-	  <sha>8fb41c0dc3d61308a735e9f879f29a5400ef8cca</sha>
+	  <sha>8c71a510ee57eee4696067ead52660db076de0b1</sha>
 	</plugin>
 
 	<plugin name="Spotify" version="1.1.1" minTarget="7.5" maxTarget="7.*" target="unix">
@@ -23,7 +23,7 @@
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
 	  <url>http://xdevtriodeplugins.2.xpdev-hosted.com/Spotify-i386-linux-v1.1.1.zip</url>
-	  <sha>49a60a23575d2faaa69deb428ced0978091a907c</sha>
+	  <sha>229c7f60f4f1e3abb6f9de73ae0060cda88319c1</sha>
 	</plugin>
 
 	<plugin name="Spotify" version="1.1.1" minTarget="7.5" maxTarget="7.*" target="mac">
@@ -32,7 +32,7 @@
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
 	  <url>http://xdevtriodeplugins.2.xpdev-hosted.com/Spotify-mac-v1.1.1.zip</url>
-	  <sha>41fd97b2edb28e07936757d109746b0d3faa7cec</sha>
+	  <sha>ef06b2792b2e60ceac8d16b7bf223922d036946a</sha>
 	</plugin>
 
   </plugins>
