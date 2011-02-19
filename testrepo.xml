@@ -8,13 +8,13 @@
 
   <plugins>
 
-	<plugin name="Spotify" version="1.3.1c" minTarget="7.5" maxTarget="7.*" target="unix">
+	<plugin name="Spotify" version="1.3.1d" minTarget="7.5" maxTarget="7.*" target="unix">
 	  <title lang="EN">3rd Party Spotify Plugin (Arm Processor Alpha test)</title>
 	  <desc  lang="EN">Listen to your Spotify on your Squeezebox.  This plugin requires a subscription to a Spotify Premium and a local Squeezebox server.  It supports Spotify playback on Squeezebox2, Squeezebox3, Classic, Transporter, Boom, Touch and Radio players and will support sychronised playback between players.  Note: this version is only for ARM based devices.</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://xdevtriodeplugins.2.xpdev-hosted.com/Spotify-arm-linux-v1.3.1c.zip</url>
-	  <sha>d2d797eaef989d66e512ccde3e1897311b180064</sha>
+	  <url>http://xdevtriodeplugins.2.xpdev-hosted.com/Spotify-arm-linux-v1.3.1d.zip</url>
+	  <sha>a53f9461c21aa0e614a0295727991610b7026b3f</sha>
 	</plugin>
 
   </plugins>
