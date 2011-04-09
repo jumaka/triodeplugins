@@ -14,13 +14,13 @@
 	  <url>http://triodeplugins.googlecode.com/files/RetroBrowser-1.0.zip</url>
 	</applet>
 
-	<applet name="BBCRadio" version="1.6" minTarget="7.5.0.8430" maxTarget="7.*" target="baby|fab4|squeezeplay">
+	<applet name="BBCRadio" version="1.7" minTarget="7.5.0.8430" maxTarget="7.*" target="baby|fab4|squeezeplay">
 	  <title lang="EN">BBC Radio</title>
 	  <desc  lang="EN">Listen to BBC Radio live and listen again streams on your Squeezebox.  Live radio and the last 7 days of BBC national, regional and local radio from the UK.</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://triodeapplets.googlecode.com/files/BBCRadio-v1.6.zip</url>
-	  <sha>e7e045f2ad2046e31e1e9cf41cfacfb258e83ae0</sha>
+	  <url>http://triodeapplets.googlecode.com/files/BBCRadio-v1.7.zip</url>
+	  <sha>a9d6c63a94e9e97175aad3e71e64bf11e6133220</sha>
 	</applet>
 
   </applets>
@@ -36,13 +36,13 @@
 	  <sha>52b5dd6fb19fcf0109e13f83d27afd3d60e55163</sha>
 	</plugin>
 
- 	<plugin name="BBCiPlayer" version="1.1.15" minTarget="7.4" maxTarget="7.*">
+ 	<plugin name="BBCiPlayer" version="1.1.16" minTarget="7.4" maxTarget="7.*">
 	  <title lang="EN">BBCiPlayer</title>
 	  <desc  lang="EN">Listen to BBC iPlayer Live and Listen Again Radio streams.  Supports the highest quality AAC or MP3 streams available from the BBC for your location.  Users outside the UK are now able to receive restricted bitrate versions of all of the content available to UK users.  This includes listen again recordings of the last 7 days of BBC National, Regional and Local Radio from the UK.</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://triodeplugins.googlecode.com/files/BBCiPlayer-v1.1.15.zip</url>
-	  <sha>c6af17e693c16d2ac7c88c45ee379b5c829b7c68</sha>
+	  <url>http://triodeplugins.googlecode.com/files/BBCiPlayer-v1.1.16.zip</url>
+	  <sha>5aff5e5fc281b6a14fcde5889ec45a2465f6cb06</sha>
 	</plugin>
 
 	<plugin name="InfoBrowserSlimForums" version="1.0" minTarget="7.3" maxTarget="7.*">
