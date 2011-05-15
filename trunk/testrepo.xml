@@ -13,8 +13,8 @@
 	  <desc  lang="EN">Play audio from YouTube videos.  WARNING: this plugin will use more network bandwidth than other streaming services as the entire video is being streamed even though only the audio is played.</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://triodeplugins.googlecode.com/files/YouTube.zip</url>
-	  <sha>98d0f57920488a1d6a11a818f6ef3b21531cf853</sha>
+	  <url>http://triodeplugins.googlecode.com/files/YouTube-v0.2.zip</url>
+	  <sha>b872770c74c93f2292903bd94f59c98cf0bdc767</sha>
 	</plugin>
 
 
