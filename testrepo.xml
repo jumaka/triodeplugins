@@ -8,6 +8,16 @@
 
   <plugins>
 
+ 	<plugin name="YouTube" version="0.2" minTarget="7.6" maxTarget="7.*">
+	  <title lang="EN">YouTube</title>
+	  <desc  lang="EN">Play audio from YouTube videos.  WARNING: this plugin will use more network bandwidth than other streaming services as the entire video is being streamed even though only the audio is played.</desc>
+	  <creator>Triode</creator>
+	  <email>triode1@btinternet.com</email>
+	  <url>http://triodeplugins.googlecode.com/files/YouTube.zip</url>
+	  <sha>4faf3df7959a915f8ea26f136652cb79cf49c4be</sha>
+	</plugin>
+
+
   </plugins>
 
   <applets>
