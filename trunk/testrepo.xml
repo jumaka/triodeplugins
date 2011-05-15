@@ -8,7 +8,7 @@
 
   <plugins>
 
- 	<plugin name="YouTube" version="0.2" minTarget="7.6" maxTarget="7.*">
+ 	<plugin name="YouTube" version="0.2" minTarget="7.5" maxTarget="7.*">
 	  <title lang="EN">YouTube</title>
 	  <desc  lang="EN">Play audio from YouTube videos.  WARNING: this plugin will use more network bandwidth than other streaming services as the entire video is being streamed even though only the audio is played.</desc>
 	  <creator>Triode</creator>
