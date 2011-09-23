@@ -87,7 +87,7 @@
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
 	  <url>http://xdevtriodeplugins.xpdev-hosted.com/Spotify-windows-v2.1.0.zip</url>
-	  <sha>87fa7cbb2fe525ec1f6af57fb3a577427b4836e7</sha>
+	  <sha>2a041454e2d73e4485e9fe03abf5e633ba4c52f4</sha>
 	</plugin>
 
 	<plugin name="Spotify" version="2.1.0" minTarget="7.5" maxTarget="7.*" target="unix">
@@ -96,7 +96,7 @@
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
 	  <url>http://xdevtriodeplugins.xpdev-hosted.com/Spotify-linux-v2.1.0.zip</url>
-	  <sha>ecb7321b5b33c7eb6b2096c594686fa08154d25c</sha>
+	  <sha>5f8d10fbf81ad8713448ebfa6baad2edb5e828ce</sha>
 	</plugin>
 
 	<plugin name="Spotify" version="2.1.0" minTarget="7.5" maxTarget="7.*" target="mac">
@@ -105,7 +105,7 @@
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
 	  <url>http://xdevtriodeplugins.xpdev-hosted.com/Spotify-mac-v2.1.0.zip</url>
-	  <sha>955c92d42f4cd4475129ec1b0dda35cbfb8ce9f2</sha>
+	  <sha>31ea35e2f08890b4fdad46cb2ae83760b6386fd1</sha>
 	</plugin>
 
  	<plugin name="JazzFM" version="0.2" minTarget="7.5" maxTarget="7.*">
