@@ -96,7 +96,7 @@
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
 	  <url>http://xdevtriodeplugins.xpdev-hosted.com/Spotify-linux-v2.2.3.zip</url>
-	  <sha>7df7d339166fc6426bcd9b215d74fb049223eb00</sha>
+	  <sha>827dedbcc9a73150a26bc4511a6f37f69fe5fac7</sha>
 	</plugin>
 
 	<plugin name="Spotify" version="2.2.3" minTarget="7.5" maxTarget="7.*" target="mac">
