@@ -32,6 +32,15 @@
 	  <sha>875d6c64616efbf3fe798e8aab469d95ef336fe6</sha>
 	</applet>
 
+	<applet name="DisplayOff" version="0.1" minTarget="7.7" maxTarget="7.*" target="fab4">
+	  <title lang="EN">Display Off</title>
+	  <desc  lang="EN">Replacement for Screen Off screensaver which disables screen processing when off.  Intended to be used as a when playing or when off screensaver.</desc>
+	  <creator>Triode</creator>
+	  <email>triode1@btinternet.com</email>
+	  <url>http://triodeapplets.googlecode.com/files/DisplayOff-v0.1.zip</url>
+	  <sha>c709e3d24b287132f62b3207ee7d1e9751f1bab6</sha>
+	</applet>
+
   </applets>
 
   <plugins>
