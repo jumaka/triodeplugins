@@ -29,7 +29,7 @@
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
 	  <url>http://triodeapplets.googlecode.com/files/EnhancedDigitalOutput-v0.6.zip</url>
-	  <sha>54fee27d6d5c80ca38442e9fb6185fc70ff29858</sha>
+	  <sha>c99636162ddecdcc27457ee0f93d64af53645aa1</sha>
 	</applet>
 
 	<applet name="DisplayOff" version="0.1" minTarget="7.7" maxTarget="7.*" target="fab4">
