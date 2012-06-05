@@ -54,13 +54,13 @@
 	  <sha>71203d5227b68f2c8743987b8b4c5275d60c8adf</sha>
 	</plugin>
 
-	<plugin name="InfoBrowserSlimForums" version="1.0" minTarget="7.3" maxTarget="7.*">
+	<plugin name="InfoBrowserSlimForums" version="1.1" minTarget="7.3" maxTarget="7.*">
 	  <title lang="EN">Slim Forums</title>
 	  <desc  lang="EN">InfoBrowser Addon for reading the latest posts on Slim Devices Forums</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://triodeplugins.googlecode.com/files/InfoBrowserSlimForums-1.0.zip</url>
-	  <sha>1073714c8b16d62b59a2b4b5b8944ca285cc7b07</sha>
+	  <url>http://triodeplugins.googlecode.com/files/InfoBrowserSlimForums-1.1.zip</url>
+	  <sha>d19aa92554f19aaaa89a12a341919024958708b1</sha>
 	</plugin>
 
 	<plugin name="InfoBrowserBBC" version="1.2" minTarget="7.3" maxTarget="7.*">
