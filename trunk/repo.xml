@@ -45,13 +45,13 @@
 
   <plugins>
 
- 	<plugin name="BBCiPlayer" version="1.2.5" minTarget="7.4" maxTarget="7.*">
+ 	<plugin name="BBCiPlayer" version="1.2.6" minTarget="7.4" maxTarget="7.*">
 	  <title lang="EN">BBCiPlayer</title>
 	  <desc  lang="EN">Listen to BBC iPlayer Live and Listen Again Radio streams.  Supports the highest quality streams available from the BBC for your location.  Users outside the UK are now able to receive restricted bitrate versions of all of the content available to UK users.  This includes listen again recordings of the last 7 days of BBC National, Regional and Local Radio from the UK.</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://triodeplugins.googlecode.com/files/BBCiPlayer-v1.2.5.zip</url>
-	  <sha>71203d5227b68f2c8743987b8b4c5275d60c8adf</sha>
+	  <url>http://triodeplugins.googlecode.com/files/BBCiPlayer-v1.2.6.zip</url>
+	  <sha>e05d4b0507cad271f47824657ea2113c78c81ed6</sha>
 	</plugin>
 
 	<plugin name="InfoBrowserSlimForums" version="1.1" minTarget="7.3" maxTarget="7.*">
