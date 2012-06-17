@@ -8,13 +8,13 @@
 
   <plugins>
 
- 	<plugin name="BBCiPlayer" version="1.2.6b" minTarget="7.4" maxTarget="7.*">
-	  <title lang="EN">BBCiPlayer [Beta]</title>
-	  <desc  lang="EN">Listen to BBC iPlayer Live and Listen Again Radio streams.  Supports the highest quality streams available from the BBC for your location.  Users outside the UK are now able to receive restricted bitrate versions of all of the content available to UK users.  This includes listen again recordings of the last 7 days of BBC National, Regional and Local Radio from the UK.</desc>
+	<plugin name="Spotify" version="2.2.7" minTarget="7.5" maxTarget="7.*" target="unix">
+	  <title lang="EN">3rd Party Spotify Plugin</title>
+	  <desc  lang="EN">Listen to your Spotify on your Squeezebox.  This plugin requires a subscription to a Spotify Premium and a local Squeezebox server.  It supports Spotify playback on Squeezebox2, Squeezebox3, Classic, Transporter, Boom, Duet, Touch and Radio players and will support sychronised playback between players.  Note: the plugin will only support NAS devices with Intel or ARM processors.</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://triodeplugins.googlecode.com/files/BBCiPlayer-v1.2.6b.zip</url>
-	  <sha>e546093d7eda2bfdb24d8bcacef159acdbd4d9bb</sha>
+	  <url>http://xdevtriodeplugins.xpdev-hosted.com/Spotify-linux-v2.2.7.zip</url>
+	  <sha>d21a39f0e5830608c8027c18d6e9aa5f3df363a5</sha>
 	</plugin>
 
   </plugins>
