@@ -8,7 +8,7 @@
 
   <plugins>
 
-	<plugin name="LocalPlayer" version="0.1beta" minTarget="7.6" maxTarget="7.*" target="unix">
+	<plugin name="LocalPlayer" version="0.1beta" minTarget="7.6" maxTarget="7.*" target="unix|win|osx">
 	  <title lang="EN">Local Player</title>
 	  <desc  lang="EN">Local playback from your server computer using the Squeezelite software emulator.  This plugin uses Squeezelite to playback through the audio output of your server computer.  The player can be controlled from the server's web interface or other Squeezebox controller applications.  Note: the plugin will only support servers or NAS devices with Intel or ARM processors.</desc>
 	  <creator>Triode</creator>
