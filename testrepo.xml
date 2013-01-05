@@ -14,7 +14,7 @@
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
 	  <url>http://triodeplugins.googlecode.com/files/LocalPlayer-linux-v0.3beta.zip</url>
-	  <sha>c8006455c8bd42180e5acf0eba0f7cfd31fbd7a</sha>
+	  <sha>fc853a62027b74ae640ce8ccafcfacb5958564c5</sha>
 	</plugin>
 
 	<plugin name="LocalPlayer" version="0.3beta" minTarget="7.5" maxTarget="7.*" target="win">
@@ -23,7 +23,7 @@
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
 	  <url>http://triodeplugins.googlecode.com/files/LocalPlayer-windows-v0.3beta.zip</url>
-	  <sha>517d1109b036e8eca0701bcd9a299ac584363694</sha>
+	  <sha>1be3d11717fe7ebd85096058452e111efca9ce12</sha>
 	</plugin>
 
 	<plugin name="LocalPlayer" version="0.3beta" minTarget="7.5" maxTarget="7.*" target="mac">
@@ -32,7 +32,7 @@
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
 	  <url>http://triodeplugins.googlecode.com/files/LocalPlayer-mac-v0.3beta.zip</url>
-	  <sha>e4eff4b2506a7788a39d8c2537692efd2aeab58d</sha>
+	  <sha>44ddf28eb7d8e608a237a6ac94c4cbfcaa723a6e</sha>
 	</plugin>
 
   </plugins>
