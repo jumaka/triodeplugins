@@ -135,6 +135,33 @@
 	  <sha>a2b6d0d648fe86a5e9443ad2454220a880547d6d</sha>
 	</plugin>
 
+	<plugin name="LocalPlayer" version="0.3beta" minTarget="7.5" maxTarget="7.*" target="unix">
+	  <title lang="EN">Local Player</title>
+	  <desc  lang="EN">Local playback from your server computer using the Squeezelite software emulator.  This plugin uses Squeezelite to playback through the audio output of your server computer.  The player can be controlled from the server's web interface or other Squeezebox controller applications.  Note: the plugin will only support servers or NAS devices with Intel or ARM processors.</desc>
+	  <creator>Triode</creator>
+	  <email>triode1@btinternet.com</email>
+	  <url>http://triodeplugins.googlecode.com/files/LocalPlayer-linux-v0.3beta.zip</url>
+	  <sha>fc853a62027b74ae640ce8ccafcfacb5958564c5</sha>
+	</plugin>
+
+	<plugin name="LocalPlayer" version="0.3beta" minTarget="7.5" maxTarget="7.*" target="win">
+	  <title lang="EN">Local Player</title>
+	  <desc  lang="EN">Local playback from your server computer using the Squeezelite software emulator.  This plugin uses Squeezelite to playback through the audio output of your server computer.  The player can be controlled from the server's web interface or other Squeezebox controller applications.</desc>
+	  <creator>Triode</creator>
+	  <email>triode1@btinternet.com</email>
+	  <url>http://triodeplugins.googlecode.com/files/LocalPlayer-windows-v0.3beta.zip</url>
+	  <sha>1be3d11717fe7ebd85096058452e111efca9ce12</sha>
+	</plugin>
+
+	<plugin name="LocalPlayer" version="0.3beta" minTarget="7.5" maxTarget="7.*" target="mac">
+	  <title lang="EN">Local Player</title>
+	  <desc  lang="EN">Local playback from your server computer using the Squeezelite software emulator.  This plugin uses Squeezelite to playback through the audio output of your server computer.  The player can be controlled from the server's web interface or other Squeezebox controller applications.</desc>
+	  <creator>Triode</creator>
+	  <email>triode1@btinternet.com</email>
+	  <url>http://triodeplugins.googlecode.com/files/LocalPlayer-mac-v0.3beta.zip</url>
+	  <sha>44ddf28eb7d8e608a237a6ac94c4cbfcaa723a6e</sha>
+	</plugin>
+
   </plugins>
 
 </extensions>
