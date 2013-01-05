@@ -141,7 +141,7 @@
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
 	  <url>http://triodeplugins.googlecode.com/files/LocalPlayer-linux-v0.3beta.zip</url>
-	  <sha>fc853a62027b74ae640ce8ccafcfacb5958564c5</sha>
+	  <sha>4f4b00552b6558894623502f70495c35c07d7941</sha>
 	</plugin>
 
 	<plugin name="LocalPlayer" version="0.3beta" minTarget="7.5" maxTarget="7.*" target="win">
