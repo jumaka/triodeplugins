@@ -99,31 +99,31 @@
 	  <sha>bb9e3ceb37c44db9e23e9c20cfde93636f7a25f4</sha>
 	</plugin>
 
-	<plugin name="Spotify" version="2.2.11" minTarget="7.5" maxTarget="*" target="windows">
+	<plugin name="Spotify" version="2.2.12" minTarget="7.5" maxTarget="*" target="windows">
 	  <title lang="EN">3rd Party Spotify Plugin</title>
 	  <desc  lang="EN">Listen to your Spotify on your Squeezebox.  This plugin requires a subscription to a Spotify Premium and a local Squeezebox server.  It supports Spotify playback on Squeezebox2, Squeezebox3, Classic, Transporter, Boom, Duet, Touch and Radio players and will support sychronised playback between players.</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://xdevtriodeplugins.xpdev-hosted.com/Spotify-windows-v2.2.11.zip</url>
-	  <sha>036e761d2fe2a8a44e05b8c1f908afb6ad3bbc6c</sha>
+	  <url>http://xdevtriodeplugins.xpdev-hosted.com/Spotify-windows-v2.2.12.zip</url>
+	  <sha>44904501e8680af9fbce256e3a83c0bcbe66dd93</sha>
 	</plugin>
 
-	<plugin name="Spotify" version="2.2.11" minTarget="7.5" maxTarget="*" target="unix">
+	<plugin name="Spotify" version="2.2.12" minTarget="7.5" maxTarget="*" target="unix">
 	  <title lang="EN">3rd Party Spotify Plugin</title>
 	  <desc  lang="EN">Listen to your Spotify on your Squeezebox.  This plugin requires a subscription to a Spotify Premium and a local Squeezebox server.  It supports Spotify playback on Squeezebox2, Squeezebox3, Classic, Transporter, Boom, Duet, Touch and Radio players and will support sychronised playback between players.  Note: the plugin will only support NAS devices with Intel or ARM processors.</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://xdevtriodeplugins.xpdev-hosted.com/Spotify-linux-v2.2.11.zip</url>
-	  <sha>d3ce89d028d1b6a994ee5d3d9a589a6c1b738eb1</sha>
+	  <url>http://xdevtriodeplugins.xpdev-hosted.com/Spotify-linux-v2.2.12.zip</url>
+	  <sha>e3966917b034ca57df67401a3452757426edc16a</sha>
 	</plugin>
 
-	<plugin name="Spotify" version="2.2.11" minTarget="7.5" maxTarget="*" target="mac">
+	<plugin name="Spotify" version="2.2.12" minTarget="7.5" maxTarget="*" target="mac">
 	  <title lang="EN">3rd Party Spotify Plugin</title>
 	  <desc  lang="EN">Listen to your Spotify on your Squeezebox.  This plugin requires a subscription to a Spotify Premium and a local Squeezebox server.  It supports Spotify playback on Squeezebox2, Squeezebox3, Classic, Transporter, Boom, Duet, Touch and Radio players and will support sychronised playback between players.</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://xdevtriodeplugins.xpdev-hosted.com/Spotify-mac-v2.2.11.zip</url>
-	  <sha>194ab1e8c018529ecd26a23c1eeac6d530523202</sha>
+	  <url>http://xdevtriodeplugins.xpdev-hosted.com/Spotify-mac-v2.2.12.zip</url>
+	  <sha>705453808c508fb9574da33f1c36ff243a91d23b</sha>
 	</plugin>
 
  	<plugin name="JazzFM" version="0.2" minTarget="7.5" maxTarget="7.*">
