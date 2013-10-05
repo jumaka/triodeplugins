@@ -126,13 +126,13 @@
 	  <sha>0440c3b3c13f264c79261dc14843c225a1b0ef04</sha>
 	</plugin>
 
- 	<plugin name="JazzFM" version="0.2" minTarget="7.5" maxTarget="7.*">
+ 	<plugin name="JazzFM" version="0.3" minTarget="7.5" maxTarget="7.*">
 	  <title lang="EN">JazzFM</title>
 	  <desc  lang="EN">Listen to Live and Audio on Demand streams from JazzFM.  Requires the BBCiPlayer plugin to also be installed.</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://triodeplugins.googlecode.com/files/JazzFM-v0.2.zip</url>
-	  <sha>a2b6d0d648fe86a5e9443ad2454220a880547d6d</sha>
+	  <url>http://triodeplugins.googlecode.com/files/JazzFM-v0.3.zip</url>
+	  <sha>0d22a0cf4a1a13fbf8e9f526348d5a1226128244</sha>
 	</plugin>
 
 	<plugin name="LocalPlayer" version="1.2" minTarget="7.5" maxTarget="7.*" target="unix">
