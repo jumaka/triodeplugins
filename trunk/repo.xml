@@ -44,7 +44,8 @@
 	<applet name="DemoApplet" version="0.1" minTarget="0.1" maxTarget="0.*" target="jivelite">
 	  <title lang="EN">JiveLite Demo Applet</title>
 	  <desc  lang="EN">Demonstration Applet for JiveLite Applet Installer</desc>
-	  <url>http://triodeapplets.googlecode.com/files/wibble.zip</url>
+	  <url>http://triodeapplets.googlecode.com/files/DemoApplet-v0.1.zip</url>
+	  <sha>2acea8b940396f8b60738f310b5dc8be5e398d2b</sha>
 	</applet>
 
   </applets>
