@@ -142,31 +142,31 @@
 	  <sha>0d22a0cf4a1a13fbf8e9f526348d5a1226128244</sha>
 	</plugin>
 
-	<plugin name="LocalPlayer" version="1.3.1" minTarget="7.5" maxTarget="7.*" target="unix">
+	<plugin name="LocalPlayer" version="1.5" minTarget="7.5" maxTarget="7.*" target="unix">
 	  <title lang="EN">Local Player</title>
 	  <desc  lang="EN">Local playback from your server computer using the Squeezelite software emulator.  This plugin uses Squeezelite to playback through the audio output of your server computer.  The player can be controlled from the server's web interface or other Squeezebox controller applications.  Note: the plugin will only support servers or NAS devices with Intel or ARM processors.</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://triodeplugins.googlecode.com/files/LocalPlayer-linux-v1.3.1.zip</url>
-	  <sha>dec18317d9c04ecce8218eb43d64bef79fb691a4</sha>
+	  <url>http://triodeplugins.googlecode.com/files/LocalPlayer-linux-v1.5.zip</url>
+	  <sha>c8ae81be28c8d2ed56f69952b00a8a975c0d22ab</sha>
 	</plugin>
 
-	<plugin name="LocalPlayer" version="1.3.1" minTarget="7.5" maxTarget="7.*" target="win">
+	<plugin name="LocalPlayer" version="1.5" minTarget="7.5" maxTarget="7.*" target="win">
 	  <title lang="EN">Local Player</title>
 	  <desc  lang="EN">Local playback from your server computer using the Squeezelite software emulator.  This plugin uses Squeezelite to playback through the audio output of your server computer.  The player can be controlled from the server's web interface or other Squeezebox controller applications.</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://triodeplugins.googlecode.com/files/LocalPlayer-windows-v1.3.1.zip</url>
-	  <sha>08932de3daaefa5f185e7b7d9d313813fd76964d</sha>
+	  <url>http://triodeplugins.googlecode.com/files/LocalPlayer-windows-v1.5.zip</url>
+	  <sha>5ec03a3ebc41723595492f5849a76c6871278412</sha>
 	</plugin>
 
-	<plugin name="LocalPlayer" version="1.3.1" minTarget="7.5" maxTarget="7.*" target="mac">
+	<plugin name="LocalPlayer" version="1.5" minTarget="7.5" maxTarget="7.*" target="mac">
 	  <title lang="EN">Local Player</title>
 	  <desc  lang="EN">Local playback from your server computer using the Squeezelite software emulator.  This plugin uses Squeezelite to playback through the audio output of your server computer.  The player can be controlled from the server's web interface or other Squeezebox controller applications.</desc>
 	  <creator>Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://triodeplugins.googlecode.com/files/LocalPlayer-mac-v1.3.1.zip</url>
-	  <sha>167c41336cd708feafcf0bdde7cd8cbe14b9388b</sha>
+	  <url>http://triodeplugins.googlecode.com/files/LocalPlayer-mac-v1.5.zip</url>
+	  <sha>15c2da51526805470c2cf04c7af800dc5d55563f</sha>
 	</plugin>
 
   </plugins>
