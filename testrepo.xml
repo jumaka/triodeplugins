@@ -8,13 +8,22 @@
 
   <plugins>
 
-	<plugin name="Spotify" version="2.3.4test" minTarget="7.5" maxTarget="*" target="unix">
-	  <title lang="EN">3rd Party Spotify Plugin</title>
-	  <desc  lang="EN">Listen to your Spotify on your Squeezebox.  This plugin requires a subscription to a Spotify Premium and a local Squeezebox server.  It supports Spotify playback on Squeezebox2, Squeezebox3, Classic, Transporter, Boom, Duet, Touch and Radio players and will support sychronised playback between players.  Note: the plugin will only support NAS devices with Intel or ARM processors.</desc>
-	  <creator>Triode</creator>
+	<plugin name="PlayDSD" version="0.3" minTarget="7.9" maxTarget="7.*" target="unix">
+	  <title lang="EN">PlayDSD</title>
+	  <desc  lang="EN">Playback of DSD files (.dsf and .dff) via you Squeezebox.  Supports conversion to PCM or playback as DSD-over-PCM (DoP) for DACs supporting DoP.</desc>
+	  <creator>Kimmo, Triode</creator>
 	  <email>triode1@btinternet.com</email>
-	  <url>http://xdevtriodeplugins.xpdev-hosted.com/Spotify-linux-v2.3.4test.zip</url>
-	  <sha>5d4556a4667c78c43dedc2abdd29bbd8028921f0</sha>
+	  <url>http://triodeplugins.googlecode.com/svn/trunk/PlayDSD-linux-v0.3.zip</url>
+	  <sha>442d377a87e0f7b13a353d0621cfeccc9678f1c9</sha>
+	</plugin>
+
+	<plugin name="PlayDSD" version="0.3" minTarget="7.9" maxTarget="7.*" target="windows">
+	  <title lang="EN">PlayDSD</title>
+	  <desc  lang="EN">Playback of DSD files (.dsf and .dff) via you Squeezebox.  Supports conversion to PCM or playback as DSD-over-PCM (DoP) for DACs supporting DoP.</desc>
+	  <creator>Kimmo, Triode</creator>
+	  <email>triode1@btinternet.com</email>
+	  <url>http://triodeplugins.googlecode.com/svn/trunk/PlayDSD-windows-v0.3.zip</url>
+	  <sha>ae85b43fcbc525a9fe393b30be306c62e54940fe</sha>
 	</plugin>
 
   </plugins>
