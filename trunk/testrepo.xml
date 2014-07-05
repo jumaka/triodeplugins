@@ -23,7 +23,7 @@
 	  <creator>Kimmo, Triode</creator>
 	  <email>triode1@btinternet.com</email>
 	  <url>http://triodeplugins.googlecode.com/svn/trunk/PlayDSD-windows-v0.5.zip</url>
-	  <sha>4b8d7d5daa71f310f3a1c83eded73dfdd9343d82</sha>
+	  <sha>9cab916ae81887ea7c68fc7d75189c43a1ac2f47</sha>
 	</plugin>
 
 	<plugin name="PlayDSD" version="0.5" minTarget="7.9" maxTarget="7.*" target="mac">
