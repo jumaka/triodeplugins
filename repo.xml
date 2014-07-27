@@ -169,6 +169,33 @@
 	  <sha>932d4474ce6ead46ea19d150a5d1fcdf2475e6a3</sha>
 	</plugin>
 
+	<plugin name="DSDPlayer" version="1.0" minTarget="7.9" maxTarget="7.*" target="unix">
+	  <title lang="EN">DSDPlayer</title>
+	  <desc  lang="EN">Playback of DSD files (.dsf and .dff) via your Squeezebox.  Supports conversion to PCM or playback as DSD-over-PCM (DoP) for DACs supporting DoP.</desc>
+	  <creator>Kimmo, Triode</creator>
+	  <email>triode1@btinternet.com</email>
+	  <url>http://triodeplugins.googlecode.com/svn/trunk/DSDPlayer-linux-v1.0.zip</url>
+	  <sha>4915a590c6c2b47809a2473d952ba92de9d5503a</sha>
+	</plugin>
+
+	<plugin name="DSDPlayer" version="1.0" minTarget="7.9" maxTarget="7.*" target="windows">
+	  <title lang="EN">DSDPlayer</title>
+	  <desc  lang="EN">Playback of DSD files (.dsf and .dff) via your Squeezebox.  Supports conversion to PCM or playback as DSD-over-PCM (DoP) for DACs supporting DoP.</desc>
+	  <creator>Kimmo, Triode</creator>
+	  <email>triode1@btinternet.com</email>
+	  <url>http://triodeplugins.googlecode.com/svn/trunk/DSDPlayer-windows-v1.0.zip</url>
+	  <sha>6b2565cb3084446fb13910f255d07be6c9880684</sha>
+	</plugin>
+
+	<plugin name="DSDPlayer" version="1.0" minTarget="7.9" maxTarget="7.*" target="mac">
+	  <title lang="EN">DSDPlayer</title>
+	  <desc  lang="EN">Playback of DSD files (.dsf and .dff) via your Squeezebox.  Supports conversion to PCM or playback as DSD-over-PCM (DoP) for DACs supporting DoP.</desc>
+	  <creator>Kimmo, Triode</creator>
+	  <email>triode1@btinternet.com</email>
+	  <url>http://triodeplugins.googlecode.com/svn/trunk/PlayDSD-mac-v1.0.zip</url>
+	  <sha>0772b8c0d1804fa821ec28bc4d5f6fdd6f42187c</sha>
+	</plugin>
+
   </plugins>
 
 </extensions>
